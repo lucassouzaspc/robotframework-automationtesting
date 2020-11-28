@@ -5,19 +5,25 @@ O projeto consiste na automação de testes de interface do site http://demo.aut
 Setup 🛠️
 
 Primeiramente, é necessário instalar o Python (versão utilizada 3.7.2).
+
 Instale o chormedriver https://chromedriver.chromium.org/downloads
+
 Mapeando variável de ambiente no Windows:
+
 $ export PATH="$PATH:/caminho/do/chromedriver"
+
 Instale as dependências com o comand: pip install -r requirements.txt
 
 Execução do Projeto
 
 Neste projeto, foi implementado o Robotframework.
+
 Para executá-lo, acesse o diretório robotframework-automationtesting\tests e execute o comando: robot .\cadastro.robot
 
 Reports 📄
 
 Para analise dos logs serão gerados automaticamente os seguintes arquivos:
+
 •	log.html
 •	output.xml
 •	report.html
