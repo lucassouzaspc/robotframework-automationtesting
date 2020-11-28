@@ -1,6 +1,7 @@
 # Sobre o projeto
  
-O projeto consiste na automação de testes de interface do site http://demo.automationtesting.in/ utilizando Robotframework. Realizando um cadastro de usuário por tela, deletando e consultando um cadastro por API
+O projeto consiste na automação de testes de interface e API ao site http://demo.automationtesting.in/ utilizando Robotframework. Realizando o cadastro de novo usuário por tela com dados fakes gerados aleatoriamente interagindo com diversos elementos web.
+Além do cadastro por tela o projeto executa por API a exclusão de um usuário da base de dados e a consulta do novo usuário cadastrado.
 
 # Setup 🛠️
 
