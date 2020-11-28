@@ -8,7 +8,6 @@ Documentation       Aqui teremos todas as palavras chaves de automação e compo
 # https://stackoverflow.com/questions/30306963/create-a-dictionary-and-pass-it-as-a-map-to-a-java-method-in-robot-framework
 
 Library    JSONLibrary
-Library    FakerLibrary
 Library    RequestsLibrary
 Library    Collections
 Library    String
