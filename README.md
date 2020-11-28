@@ -1,4 +1,4 @@
-﻿Sobre o projeto
+#Sobre o projeto
  
 O projeto consiste na automação de testes de interface do site http://demo.automationtesting.in/ utilizando Robotframework. Realizando um cadastro de usuário por tela, deletando e consultando um cadastro por API
 
