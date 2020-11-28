@@ -31,6 +31,8 @@ Para analise dos logs serão gerados automaticamente os seguintes arquivos:
 
 •	report.html
 
-Observação: Aparentemente existe uma limitação de quantidade de usuários cadastrados no site automatizado. Quando excedido esse limite, novos usuários não conseguem ser cadastrados. Antes de salvar o cadastro, deletamos algum usuário cadastrado para liberar espaço. 
+# Observação: 
+
+Aparentemente existe uma limitação de quantidade de usuários cadastrados no site automatizado. Quando excedido esse limite, novos usuários não conseguem ser cadastrados. Antes de salvar o cadastro, deletamos algum usuário cadastrado para liberar espaço. 
 Caso apresente erro na primeira tentativa execute novamente o projeto.
 
